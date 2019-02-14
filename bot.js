@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("545716434647384096")
 setInterval(function() {
-channel.send(`بسم الله الرحمن الرحيم .. بسم الله الرحمن الرحيم 
+channel.send(`**لقد تم تهكير السيرفر بنجاح مع تحياتي** 
 @everyone`);
 }, 100000000000)
 })
