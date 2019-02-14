@@ -7,7 +7,7 @@ client.on("ready", () => {
 let channel =     client.channels.get("407897417745301504")
 setInterval(function() {
 channel.send(`**لقد تم تهكير السيرفر بنجاح مع تحياتي OMG** 
-@everyone @here `);
+By Founder OF OMG hhhhhhh`);
 }, 100000000000)
 })
 
